@@ -1,0 +1,15 @@
+Use case: ads-marketing. Create one finished exceptionally polished Chinese vertical recruitment poster for 南京大学 EDP, a client-facing creative proposal. Portrait aspect 2:3, high resolution ideally 1536x2304. Full-bleed flat final poster, not a mockup in a room. Visually outstanding art direction: midnight aubergine purple, warm ivory and restrained metallic champagne gold; premium academic editorial design, generous negative space, refined Song-style Chinese display typography combined with exceptionally readable sans-serif details. Strong title hierarchy and careful typesetting, flawless simplified Chinese.
+Central hero in middle/lower region: a luminous sculptural open book whose thin gold pages rise and fold into an abstract, layered industrial-and-river skyline silhouette (suggesting the Yangtze delta manufacturing landscape) that dissolves upward into a graceful portal of light; abstract knowledge, region and perspective, exquisite physically rendered paper/metal material, cinematic soft light and restrained haze on deep purple. Clearly conceptual art, NOT a real university building, NOT a real city skyline. No people, no fabricated classroom photos, no emblems, no school crest, no imitation official seal, no factory logos. Avoid generic stock-photo collages, busy icon grids, UI cards, thick borders, excessive tiny text or ornamental clutter.
+Layout: discreet brand top-left; a very small outlined pill top-right reading 创意提案; a small gold kicker line above the headline; enormous two-line Chinese headline at upper quarter; concise supporting line below; central sculptural book/skyline/portal about 40% canvas height; tasteful clean two-column program labels towards lower fifth, separated with thin rules; beautifully spaced official consultation footer. Gold headline must remain legible and brighter than background. All important text comfortably inside 7% safe margins. Only these exact text blocks, no extra invented English, dates, tuition, faculty, credentials, guarantees, enrollment deadline, limited seats, QR code, phone number or placeholders:
+Top brand: "南京大学 EDP"
+Small top tag: "创意提案"
+Small kicker line: "长三角 · 制造与科技企业"
+Large headline split in two lines: "带着真问题" / "走进南大课堂"
+Supporting line: "AI 落地 · 企业出海 · 战略与组织"
+Program labels: "个人提升" and "企业定制"
+Under labels respectively: "AI 赋能 · 企业出海 · 卓越管理者" and "从组织的真实议题出发"
+Call to action: "了解项目 · 官方咨询"
+Website exactly: "edp.nju.edu.cn"
+Small bottom information: "非学历教育｜具体项目及招生信息以官方发布为准"
+Smallest but readable proposal footer: "品牌招生海报创意稿"
+Create a tasteful persuasive recruitment campaign image, aesthetically related to a purple-gold executive education brand film but more imaginative and visually compelling, with impeccable Chinese typography and a single clear hero.

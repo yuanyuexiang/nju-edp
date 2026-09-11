@@ -8,6 +8,9 @@ This repository is a Chinese-language Nanjing University EDP admissions marketin
 - `01-*.md`, `02-*.md`, `06-*.md`, and `08-*.md` cover strategy, the 90-day plan, interviews, and platform operations.
 - `07-来源清单.md` records research sources and limitations.
 - `03-*.csv` and `09-*.csv` contain publishing calendars; `04-*.csv` is the CRM template; `05-*.csv` is the metrics dashboard.
+- `10-*.md` is the admissions-system decision study; `13-*.md` is the banned/approval-gated wording checklist; `14-*.md` is the three-person scaled-down plan; `15-*.md` holds the landing-page checklist and B2B one-page template.
+- `11-*.csv` is the append-only follow-up log linked to `04` by 线索ID; `12-*.csv` is the cohort conversion table. `05` ratios are same-period ratios and show “暂无有效样本” on a zero denominator.
+- Poster deliverables live under `assets/posters/`; each asset directory is versioned as `<slug>-vN` with its own README.
 
 ## Development & Validation Commands
 
